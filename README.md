@@ -31,38 +31,6 @@ I'm an entry-level frontend developer passionate about building intuitive, visua
 
 ---
 
-## 🎯 Featured Projects
-
-### 🏗️ [Project Name] | React + Tailwind CSS
-**[Live Demo](link) • [Repository](link)**
-- Built a responsive web application with React that improved user engagement by X%
-- Implemented clean, reusable component architecture using modern React hooks
-- Optimized performance with lazy loading and code splitting
-
-### 📱 [Project Name] | Vanilla JavaScript
-**[Repository](link)**
-- Developed an interactive frontend feature with vanilla JavaScript (no frameworks)
-- Achieved 98+ Lighthouse performance score
-- Implemented accessibility standards (WCAG 2.1)
-
-### 🎨 [Project Name] | Frontend UI
-**[Live Demo](link) • [Repository](link)**
-- Designed and coded responsive UI from Figma mockups
-- Cross-browser compatible and mobile-optimized
-- 100% pixel-perfect implementation
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meisamith&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meisamith&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 ## 🌟 What I'm Proud Of
