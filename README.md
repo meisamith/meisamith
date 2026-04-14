@@ -1,27 +1,104 @@
-# 💫 About Me:
-🚀 I’m currently working on  <br>Building scalable full-stack applications and AI-driven products<br><br>🤝 I’m looking to collaborate on  <br>Early-stage startup ideas, SaaS platforms, and meaningful open-source projects<br><br>🧠 I’m looking for help with  <br>System design, backend scaling, and landing high-impact internships<br><br>🌱 I’m currently learning  <br>MERN stack, advanced JavaScript, and integrating AI into real-world apps<br><br>💬 Ask me about  <br>Frontend development, project building, and breaking into tech as a student<br><br>⚡ Fun fact  <br>I focus on building real-world products over just theoretical coding
+# Hey, I'm Amith 👋
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meisamith) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amithchoudhary) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Amith) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amithchoudhary63@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=meisamith&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=meisamith&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=meisamith&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=meisamith&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=meisamith&limit=5&theme=dark&combine_all_yearly_contributions=true)
+> **Frontend Developer** crafting beautiful, responsive web experiences | **React** • **JavaScript** • **UI/UX Focused**
 
 ---
-[![](https://komarev.com/ghpvc/?username=meisamith&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I'm an entry-level frontend developer passionate about building intuitive, visually stunning web interfaces. I specialize in translating design mockups into clean, functional code with a focus on user experience and performance. When I'm not coding, I'm exploring new design patterns and staying up-to-date with modern web technologies.
+
+**Currently:** Building projects with React, refining my skills in responsive design and state management  
+**Learning:** Advanced React patterns, TypeScript, and web accessibility (a11y)  
+**Goal:** Create interfaces that users love and developers maintain easily
+
+---
+
+## 💻 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+---
+
+## 🎯 Featured Projects
+
+### 🏗️ [Project Name] | React + Tailwind CSS
+**[Live Demo](link) • [Repository](link)**
+- Built a responsive web application with React that improved user engagement by X%
+- Implemented clean, reusable component architecture using modern React hooks
+- Optimized performance with lazy loading and code splitting
+
+### 📱 [Project Name] | Vanilla JavaScript
+**[Repository](link)**
+- Developed an interactive frontend feature with vanilla JavaScript (no frameworks)
+- Achieved 98+ Lighthouse performance score
+- Implemented accessibility standards (WCAG 2.1)
+
+### 🎨 [Project Name] | Frontend UI
+**[Live Demo](link) • [Repository](link)**
+- Designed and coded responsive UI from Figma mockups
+- Cross-browser compatible and mobile-optimized
+- 100% pixel-perfect implementation
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meisamith&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meisamith&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌟 What I'm Proud Of
+
+✨ **Clean Code Architecture** — Components that are reusable, testable, and easy to maintain  
+🎯 **Attention to Detail** — Pixel-perfect implementations that match design specs  
+⚡ **Performance First** — Optimized applications that load fast and run smooth  
+♿ **Accessibility** — Building for everyone with semantic HTML and ARIA practices  
+🔄 **Continuous Learning** — Always exploring new technologies and best practices  
+
+---
+
+## 💼 Get In Touch
+
+I'm open to freelance projects, internships, and full-time opportunities!
+
+- 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
+- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 🌐 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
+- 💬 **Discord/Slack:** Available for collaboration
+
+---
+
+## 🎓 Currently Learning
+
+- 🔹 Advanced React patterns (Context API, Custom Hooks)
+- 🔹 TypeScript for type-safe frontend development
+- 🔹 Web Accessibility (WCAG 2.1 standards)
+- 🔹 Performance optimization techniques
+
+---
+
+<div align="center">
+
+### Let's build something amazing together! 🚀
+
+⭐ Feel free to explore my repositories and drop a message if you'd like to collaborate
+
+</div>
