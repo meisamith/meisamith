@@ -47,10 +47,8 @@ I'm an entry-level frontend developer passionate about building intuitive, visua
 
 I'm open to freelance projects, internships, and full-time opportunities!
 
-- 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 🌐 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
-- 💬 **Discord/Slack:** Available for collaboration
+- 📧 **Email:** [your-email@example.com](mailto:amithchoudhary63@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/amithchoudhary)
 
 ---
 
